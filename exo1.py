@@ -18,4 +18,4 @@ while True:
         print("Bravo ! Vous avez trouvé.")
         break
     max_attempts = 10
-    
+    print(f"Tentatives restantes : {max_attempts - attempts}")
