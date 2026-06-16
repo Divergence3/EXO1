@@ -17,3 +17,5 @@ while True:
     else:
         print("Bravo ! Vous avez trouvé.")
         break
+    max_attempts = 10
+    
