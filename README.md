@@ -1,0 +1,2 @@
+# EXO1
+MA PRATIQUE EN GenAI
