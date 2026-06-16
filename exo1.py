@@ -19,4 +19,4 @@ while True:
         break
     max_attempts = 10
     print(f"Tentatives restantes : {max_attempts - attempts}")
-    print("Perdu !")50
+    print("Perdu !")
